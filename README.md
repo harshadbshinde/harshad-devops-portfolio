@@ -10,7 +10,7 @@
 ## 🌐 Live Portfolio
 
 **Portfolio:**  
-https://harshadbshinde.github.io/portfolio/
+https://harshadbshinde.github.io/harshad-devops-portfolio/
 
 ---
 
@@ -303,7 +303,7 @@ harshadbshinde8754@gmail.com
 https://github.com/harshadbshinde
 
 🌐 Portfolio:
-https://harshadbshinde.github.io/portfolio/
+https://harshadbshinde.github.io/harshad-devops-portfolio/
 
 🎯 Career Objective
 
@@ -347,4 +347,4 @@ For your **GitHub repository README**, I recommend keeping the portfolio link ne
 ```markdown
 ## 🌐 Live Portfolio
 
-https://harshadbshinde.github.io/portfolio/
+https://harshadbshinde.github.io/harshad-devops-portfolio/
